@@ -31,6 +31,4 @@ This project is a simple AC to DC converter circuit designed as a compact and ea
 - Ensure proper orientation of polarized components (diodes, capacitor, LED).  
 - For higher current loads, increase trace width and ensure component ratings are suitable.
 
----
 
-Designed by: **MUSANNA TARIQUE**
