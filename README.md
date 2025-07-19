@@ -1,4 +1,4 @@
-# Simple AC to DC Converter PCB – Kathbadam PCB
+# Simple AC to DC Converter PCB Design
 
 This project is a simple AC to DC converter circuit designed as a compact and easy-to-assemble PCB. It uses a full-wave bridge rectifier followed by a smoothing capacitor and an LED indicator for visual confirmation of DC output.
 
