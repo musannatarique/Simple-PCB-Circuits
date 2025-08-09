@@ -1,4 +1,4 @@
-#Simple PCB Circuits 
+# Simple PCB Circuits 
 
 ## Simple AC to DC Converter PCB Design
 
@@ -11,9 +11,9 @@
 - Designed for low-voltage AC input (recommended: 6V–24V AC)
 
    
-#Simple Voltage Regulator PCB Design
+# Simple Voltage Regulator PCB Design
 
-#Features
+# Features
 
 - LM7805 5V linear voltage regulator
 - Input and output filtering capacitors for voltage stabilization
