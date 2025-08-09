@@ -2,7 +2,7 @@
 
 ## Simple AC to DC Converter PCB Design
 
-# Features
+### Features
 
 - Full-wave bridge rectifier using 1N4007 diodes  
 - 1000µF filtering capacitor for voltage smoothing  
@@ -11,9 +11,9 @@
 - Designed for low-voltage AC input (recommended: 6V–24V AC)
 
    
-# Simple Voltage Regulator PCB Design
+## Simple Voltage Regulator PCB Design
 
-# Features
+### Features
 
 - LM7805 5V linear voltage regulator
 - Input and output filtering capacitors for voltage stabilization
