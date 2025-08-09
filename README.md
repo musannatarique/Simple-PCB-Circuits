@@ -1,5 +1,3 @@
-# Simple PCB Circuits 
-
 ## Simple AC to DC Converter PCB Design
 
 ### Features
